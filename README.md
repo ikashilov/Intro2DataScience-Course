@@ -3,8 +3,8 @@
 This repo contains problems and examples solved while worked in MegaFon
 
 # Navigate
-* ./CNC - Regression tasks to predict further data (Time series forecastong)
-* ./Stock - Observing differnt methods of oredictiong stok prices
+* ./CNC - Observing differnt regression medods to predict further data (Time series forecasting)
+* ./Stock - Trying to solve stock price prediction task
 * ./NLP - Natural Lange processing tasks (Sentiment analisys, Text generation)
 * ./GAN - Playing with Generative Adversarial networks (Images Generation)
 * ./Vision - Computer vision tasks (Conv filters visualisation etc)
