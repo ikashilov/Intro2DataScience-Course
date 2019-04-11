@@ -11,4 +11,4 @@ This repo contains problems and examples solved while worked in MegaFon
 * ./NN Tution - couple examples of the course "Introduction to the Artificial Neural Networks" taught in MegaFon (winter 2019)
 
 # Feedback
-https://www.instagram.com/ikashilov/?hl=en
+ *  https://www.instagram.com/ikashilov/
