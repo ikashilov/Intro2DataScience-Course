@@ -1,4 +1,4 @@
-# ML, Dl and AI while working in MegaFon
+# ML, DL and AI while working in MegaFon
 
 This repo contains problems and examples solved while worked in MegaFon
 
@@ -9,3 +9,6 @@ This repo contains problems and examples solved while worked in MegaFon
 * ./GAN - Playing with Generative Adversarial networks (Images Generation)
 * ./Vision - Computer vision tasks (Conv filters visualisation etc)
 * ./NN Tution - couple examples of the course "Introduction to the Artificial Neural Networks" taught in MegaFon (winter 2019)
+
+# Feedback
+https://www.instagram.com/ikashilov/?hl=en
